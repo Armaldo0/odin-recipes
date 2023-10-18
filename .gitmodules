@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = recipes
+  url = git://url-of-source/
